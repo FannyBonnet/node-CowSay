@@ -1,0 +1,14 @@
+{
+  "name": "node-cowsay",
+  "version": "1.0.0",
+  "description": "node exercice cowSay",
+  "main": "information.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moi",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
